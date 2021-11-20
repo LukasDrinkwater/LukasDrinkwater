@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukasDrinkwater
-- 👀 I’m interested in python, SQL and HTML.
-- 🌱 I’m currently reskilling and getting back up to scratch with coding with the hopes of getting a job in data analysis.
+- 👀 I’m interested in Python, SQL and HTML.
+- 🌱 I’m currently reskilling and getting back up to scratch with coding with the aim of acquiring a job in data analysis or software development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

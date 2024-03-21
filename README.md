@@ -22,6 +22,5 @@ Repository: [Project Memory Card GitHub](https://github.com/LukasDrinkwater/proj
 
 ## 💬 Get in touch
 - LinkedIn: [Lukas Drinkwater LinkedIn](https://www.linkedin.com/in/lukasdrinkwater/)
-- Email: [lukasdrinkwater@example.com](mailto:lukasdrinkwater@example.com)
 
 Feel free to reach out if you're interested in collaborating or have any questions about my projects!

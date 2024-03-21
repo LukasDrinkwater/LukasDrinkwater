@@ -1,19 +1,27 @@
-- 👋 Hi, I’m @LukasDrinkwater
-- 👀 I’m interested in Javascript, HTML, CSS, SQL, React, express, nodejs, mongoDB/mongoose
-- 🌱 I'm currently working as a software support engineer and learning HMTL, CSS, Javascript and NODEJS with the aim of working as a front end developer.
+# Hey there, I'm Lukas! 
 
-Take a look at some of my current projects:
+I'm a software engineer with a focus on web development. My interests lie in creating robust and user-friendly applications using technologies such as JavaScript, HTML, CSS, React, Node.js, Express, and MongoDB/Mongoose. Currently, I'm refining my skills while working as a software support engineer with the goal of transitioning into a front end developer role.
 
-https://github.com/LukasDrinkwater/project-wheres-waldo-photo-tagging - Test out the app here: https://poetic-alfajores-d4b387.netlify.app/
+## 🔭 Current Projects
 
-https://github.com/LukasDrinkwater/project-blog
+### Project Wheres Waldo Photo Tagging
+Test out the app here: [Project Wheres Waldo Photo Tagging](https://poetic-alfajores-d4b387.netlify.app/)
+Repository: [Project Wheres Waldo Photo Tagging GitHub](https://github.com/LukasDrinkwater/project-wheres-waldo-photo-tagging)
 
-https://github.com/LukasDrinkwater/project-memory-card
+### Project Blog
+Repository: [Project Blog GitHub](https://github.com/LukasDrinkwater/project-blog)
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Project Memory Card
+Repository: [Project Memory Card GitHub](https://github.com/LukasDrinkwater/project-memory-card)
 
-<!---
-LukasDrinkwater/LukasDrinkwater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 I’m currently learning
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+## 💬 Get in touch
+- LinkedIn: [Lukas Drinkwater LinkedIn](https://www.linkedin.com/in/lukasdrinkwater/)
+- Email: [lukasdrinkwater@example.com](mailto:lukasdrinkwater@example.com)
+
+Feel free to reach out if you're interested in collaborating or have any questions about my projects!

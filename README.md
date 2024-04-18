@@ -1,6 +1,6 @@
 # Hey there, I'm Lukas! 
 
-Currently, I'm refining my skills while working as a software support engineer with the goal of transitioning into a front end developer role. My interests lie in creating robust and user-friendly applications using technologies such as JavaScript, HTML, CSS, React, Node.js, Express, and MongoDB/Mongoose. 
+Currently, I'm refining my  front and backend skills while working as a software support engineer with the goal of transitioning into a front and/or back end developer role. My interests lie in creating robust and user-friendly applications using technologies such as JavaScript, HTML, CSS, React, Node.js, Express, and MongoDB/Mongoose. 
 
 ## 🔭 Current Projects
 

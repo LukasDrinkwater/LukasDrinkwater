@@ -24,7 +24,7 @@ Test the the app here: [Project Messaging app] (https://get-chatting-messaging-a
 Repository: [Project Messaging App Github] (https://github.com/LukasDrinkwater?tab=repositories)
 
 ### Project Wheres Waldo Photo Tagging
-Test out the app here: [Project Wheres Waldo Photo Tagging](https://poetic-alfajores-d4b387.netlify.app/)<br/>
+Test out the app here: [Project Wheres Waldo Photo Tagging](https://poetic-alfajores-d4b387.netlify.app/)
 Repository: [Project Wheres Waldo Photo Tagging GitHub](https://github.com/LukasDrinkwater/project-wheres-waldo-photo-tagging)
 
 ### Project Blog

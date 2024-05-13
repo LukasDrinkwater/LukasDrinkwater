@@ -21,7 +21,7 @@ Currently, I'm refining my front and back end skills while working as a software
 
 ### Project Messaging App
 Test the the app here: [Project Messaging app](https://get-chatting-messaging-app.netlify.app)<br/>
-Repository: [Project Messaging App Github](https://github.com/LukasDrinkwater?tab=repositories)
+Repository: [Project Messaging App Github](https://github.com/LukasDrinkwater/project-messaging-app)
 
 ### Project Wheres Waldo Photo Tagging
 Test out the app here: [Project Wheres Waldo Photo Tagging](https://poetic-alfajores-d4b387.netlify.app/)<br/>
